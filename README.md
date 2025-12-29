@@ -1,4 +1,4 @@
-# Data Structures & Algorithms Lab 2025
+# GRAD-C9: Data Structures & Algorithms Lab Materials 2025
 
 Graduate-level course covering Python fundamentals, Flask web development, and core algorithms including sorting, graph traversals, and complexity analysis.
 
@@ -7,19 +7,14 @@ Graduate-level course covering Python fundamentals, Flask web development, and c
 - Python 3.10+
 - Basic programming experience
 
-## Python Refresher
+## Getting Started
 
 | Notebook | Description |
 |----------|-------------|
-| [0_python_refresher.ipynb](0_python_refresher.ipynb) | Python basics review |
+| [0_python_refresher.ipynb](0_python_refresher.ipynb) | **Optional refresher** — variables, control flow, functions, lists, dictionaries, comprehensions. Complete this first if you need to brush up on Python basics. |
+| [lab_1_python_setup_fibonacci.ipynb](lab_1_python_setup_fibonacci.ipynb) | **Start here** — environment setup (git, conda, Jupyter), list comprehensions, function composition, Fibonacci algorithms |
 
 ## Labs
-
-### Foundations
-
-| Lab | Notebook | Topics |
-|-----|----------|--------|
-| 1 | [lab_1_python_setup_fibonacci.ipynb](lab_1_python_setup_fibonacci.ipynb) | Python setup, Fibonacci |
 
 ### Web Development with Flask
 

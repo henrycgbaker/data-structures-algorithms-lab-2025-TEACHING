@@ -1,0 +1,14 @@
+# Jupyter
+jupyter
+
+# Data analysis
+pandas
+
+# Visualization
+plotly
+
+# Web framework (Labs 2-7)
+flask
+flask-sqlalchemy
+flask-wtf
+wtforms
